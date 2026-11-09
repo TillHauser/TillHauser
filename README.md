@@ -2,7 +2,7 @@
 
 # Dr. Till Hauser
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=287D83&center=true&vCenter=true&width=650&lines=Mathematician+%7C+PhD;Dynamical+Systems+%26+Probability;Mathematics+%E2%9E%9C+Python+%E2%9E%9C+Data+Science" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=287D83&center=true&vCenter=true&width=650&lines=Mathematician+%7C+PhD;Dynamical+Systems+%26+Probability;Mathematics+%E2%9E%9C+Python+%E2%9E%9C+Simulation" alt="Typing SVG" />
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ### About
 
-I am a mathematician with a PhD in Mathematics and a background in dynamical systems, probability theory, and topology.
+I am a mathematician with a background in dynamical systems, probability theory and topology. My work lies at the intersection of mathematical theory, statistical modeling, and computational methods.
 
-My research has focused on mathematical structures, ergodic theory, and the interplay between dynamics and probability. Alongside my research, I have developed an interest in scientific programming, numerical methods, and data-driven approaches to mathematical problems.
+Throughout my academic career, I have explored problems in ergodic theory, topological dynamics, and mathematical physics. I enjoy both the abstract development of mathematical ideas and their translation into concrete models and simulations. 
 
 ---
 
